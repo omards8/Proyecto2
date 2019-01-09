@@ -1,0 +1,11 @@
+table {
+  border: 2px solid #000;
+
+}
+tr{
+  font-size: 80px;
+}
+td{
+  font-size: 80px;
+  border: 2px solid #000;
+}
